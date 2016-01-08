@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="DirectPayDemo:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="Direct-Pay-Demo.war">
-      <element id="artifact" artifact-name="DirectPayDemo:war exploded" />
-    </root>
-  </artifact>
-</component>
